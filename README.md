@@ -35,6 +35,23 @@ The primary objective of this analysis is to identify actionable relationships b
 
 ---
 
+## Dataset
+
+Due to GitHub file size limitations, the historical trading dataset is not stored in this repository.
+
+### Download Links
+
+- Historical Trader Data: [[Google Drive Link]](https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing)
+- Fear & Greed Index: [[Google Drive Link]](https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing)
+
+After downloading, place the files inside:
+
+data/
+├── historical_data.csv
+└── fear_greed_index.csv
+
+---
+
 ## Dataset Overview
 
 ### 1. Bitcoin Fear & Greed Index
