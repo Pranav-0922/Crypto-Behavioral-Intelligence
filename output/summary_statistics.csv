@@ -1,0 +1,12 @@
+Metric,Value,Unit
+Total Trades (all),211224.0,count
+Closed Positions,104408.0,count
+Unique Traders,32.0,count
+Profitable Trades,86869.0,count
+Losing Trades,17539.0,count
+Win Rate,83.2,%
+Total Closed PnL,10296958.94,$
+Avg PnL per Trade,98.62,$
+Best Single Trade,135329.09,$
+Worst Single Trade,-117990.1,$
+Sentiment Coverage,100.0,%
