@@ -46,9 +46,12 @@ Due to GitHub file size limitations, the historical trading dataset is not store
 
 After downloading, place the files inside:
 
+```text
 data/
-├── historical_data.csv
-└── fear_greed_index.csv
+│
+├── fear_greed_index.csv
+└── dataset_links.md
+```
 
 ---
 
@@ -284,18 +287,5 @@ This analysis demonstrates that market sentiment is not merely a psychological i
 
 The findings provide a foundation for developing sentiment-aware quantitative trading systems and advanced market intelligence solutions.
 
----
 
-## Author
-
-### Pranav Rajput
-
-**Data Science | Machine Learning | AI Engineering | Quantitative Analytics**
-
-Passionate about building data-driven solutions that combine machine learning, statistical modeling, and financial analytics to solve real-world problems.
-
-**Skills:** Python • Machine Learning • Data Analytics • Deep Learning • Generative AI • Financial Data Analysis • Visualization
-
----
-
-⭐ If you found this project valuable, consider starring the repository and connecting with me for discussions on Data Science, AI, and Quantitative Finance.
+                                                  --------------------------
