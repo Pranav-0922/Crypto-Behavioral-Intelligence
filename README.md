@@ -294,7 +294,7 @@ Crypto-Behavioral-Intelligence/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Crypto-Behavioral-Intelligence.git
+git clone https://github.com/Pranav-0922/Crypto-Behavioral-Intelligence.git
 cd Crypto-Behavioral-Intelligence
 ```
 
